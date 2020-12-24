@@ -4,8 +4,8 @@ This repository contains final project for DM class.
 
 ## Technologies Used ##
 
-### Pandas ### 
-### DecisionTreeClassifier ### 
+#### Pandas ####
+#### DecisionTreeClassifier #### 
 ### GridSearchCV ### 
 ### sklearn ### 
 ### svm ### 

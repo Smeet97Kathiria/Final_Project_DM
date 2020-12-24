@@ -6,8 +6,8 @@ This repository contains final project for DM class.
 
 #### Pandas ####
 #### DecisionTreeClassifier #### 
-### GridSearchCV ### 
-### sklearn ### 
-### svm ### 
-### numpy ### 
-### matplotlib ### 
+#### GridSearchCV #### 
+#### sklearn #### 
+#### svm #### 
+#### numpy #### 
+#### matplotlib #### 
